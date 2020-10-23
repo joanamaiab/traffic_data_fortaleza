@@ -1,0 +1,6 @@
+The original files are too large to be uploaded to GitHub, so we are making them available in the following Google Drive link:
+
+https://drive.google.com/drive/folders/1HPCiu95CaVt8E30N60E133lKIV_NouIs?usp=sharing
+
+
+The files in the folder correspond to the traffic sensors' data collected in Fortaleza, Brazil, in 2017 for weekdays, excluding hollidays.
